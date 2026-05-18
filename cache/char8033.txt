@@ -1,0 +1,385 @@
+<div id="content">
+<div class="haberBoxBg">
+<div class="haberBox">
+<h3>Karakter Bilgileri</h3>
+<br>
+<div class="charinfo">
+<div class="lonca-profil-ad">
+<div class="karakter-detay"><span class="karakter-adi">Pixy</span></div>
+<div class="karakter-seviye">
+<div class="seviye"><span>110</span></div>
+<span class="seviye-span">Level :</span></div>
+<div class="clear"></div>
+</div>
+<div class="char-top-wrapper">
+<div class="char-info pull-left">
+<div class="char-img pull-left">
+<img src="/media/images/char/14891.gif" alt />
+</div>
+<div class="char-info-list pull-right">
+<ul class="list-unstyled">
+<li>
+<span class="text-bold">Karakter:</span>
+<span class="text-danger">Pixy</span>
+</li>
+<li>
+<span class="text-bold">Guild:</span>
+<span class="text-danger"><a class="text-danger" href="guildinfo.php?q=921">OutOfControl</a></span>
+</li>
+<li>
+<span class="text-bold">Level:</span>
+<span class="text-danger">110</span>
+</li>
+<li>
+<span class="text-bold">Strength:</span>
+<span class="text-danger">129</span>
+</li>
+<li>
+<span class="text-bold">Intellect:</span>
+<span class="text-danger">456</span>
+</li>
+<li>
+<span class="text-bold">Gold:</span>
+<span class="text-danger">594.722.334</span>
+</li>
+<li>
+<span class="text-bold">Inventory Size:</span>
+<span class="text-danger">109</span>
+</li>
+	
+<li>
+<span class="text-bold">Job:</span>
+<span class="text-danger"> Yok</span>
+</li>
+				<li>
+<span class="text-bold">Item Point:</span>
+<span class="text-danger">436</span>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="idInventorySet" class="bg-equipment pull-right">
+<div class="slots 6 left weapon">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/weapon/tstaff_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Capricorn Gia Brain (+1)</span><br><br><span style="color:#efdaa4;">Sort of item: Two handed staff</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Mag. atk. pwr. 3181 ~ 3865 (+0%)<br>
+				Durability 73/77 (+0%)<br>
+				Attack rating 203 (+67%)<br>
+				Mag. reinforce 488.7 % ~ 597.3 % (+38%)<br><br>Required level 101<br>European<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Str  7 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Attack rate  60% Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Steady( 2 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Lucky( 1 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Int  7 Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 7 right shield">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 	  </div> 
+ <div class="slots 0 left head">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_ha.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Drako War God Morion (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Head</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 205.2 (+9%)<br>
+			Mag. def. pwr. 336.6 (+58%)<br>
+			Durability 83/85 (+16%)<br>
+			Parry rate 51.0 (+19%)<br>
+			Phy. reinforce 29.7 (+48%)<br>
+			Mag. reinforce 48.3 (+16%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 2 right shoulder">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_sa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako War God Alette (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Shoulder</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 164.1 (+9%)<br>
+			Mag. def. pwr. 265.4 (+29%)<br>
+			Durability 92/86 (+22%)<br>
+			Parry rate 44.0 (+3%)<br>
+			Phy. reinforce 23.2 (+12%)<br>
+			Mag. reinforce 38.6 (+3%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Durability  10% Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 1 left chest">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_ba.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako War God Mail (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Chest</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 279.7 (+51%)<br>
+			Mag. def. pwr. 447.5 (+54%)<br>
+			Durability 97/85 (+16%)<br>
+			Parry rate 63.0 (+16%)<br>
+			Phy. reinforce 38.3 (+22%)<br>
+			Mag. reinforce 64.9 (+32%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Lucky( 1 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Durability  20% Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Immortal( 1 Time/times)</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 3 right hands">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_aa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Drako War God Glove (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Hands</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 154.5 (+32%)<br>
+			Mag. def. pwr. 242.8 (+3%)<br>
+			Durability 74/77 (+0%)<br>
+			Parry rate 41.0 (+25%)<br>
+			Phy. reinforce 22.2 (+45%)<br>
+			Mag. reinforce 35.9 (+6%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 4 left legs">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_la.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako War God Tasset (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Legs</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 223.2 (+6%)<br>
+			Mag. def. pwr. 359.9 (+22%)<br>
+			Durability 85/82 (+9%)<br>
+			Parry rate 54.0 (+29%)<br>
+			Phy. reinforce 33.1 (+80%)<br>
+			Mag. reinforce 52.6 (+22%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Durability  10% Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 5 right foot">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/woman_item/light_11_fa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Drako War God Boots (+3)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Light Armor<br>
+		Mounting Part: Foot</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 197.9 (+48%)<br>
+			Mag. def. pwr. 312.1 (+29%)<br>
+			Durability 79/81 (+6%)<br>
+			Parry rate 49.0 (+6%)<br>
+			Phy. reinforce 29.1 (+87%)<br>
+			Mag. reinforce 47.1 (+48%)<br><br>Required level 101<br>European<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 9 left earring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/acc/necklace_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Capricorn Heaven Necklace (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Necklace</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 30.5 (+9%)<br>
+				Mag. absorption 30.5 (+3%)<br><br>Required level 101<br>European<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Lucky( 2 Time/times)</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 10 right necklace">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/acc/earring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Capricorn Heaven Earring (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Earring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 26.1 (+19%)<br>
+				Mag. absorption 26.3 (+48%)<br><br>Required level 101<br>European<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 11 left lring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/acc/ring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Capricorn Heaven Ring (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 23.9 (+32%)<br>
+				Mag. absorption 23.7 (+6%)<br><br>Required level 101<br>European<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 12 right rring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/europe/acc/ring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Capricorn Heaven Ring (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 24.0 (+67%)<br>
+				Mag. absorption 23.7 (+6%)<br><br>Required level 101<br>European<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ 
+<button id="idShowAvatar" class="btn-equip-avatar"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+<div id="idInventoryAvatar" class="bg-equipment-avatar pull-right hidden">
+<div class="avatar-margin">
+
+<div class="slots slots 0 left hat">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 1 right flag">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 2 left dress">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 3 right attach">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 4 left spec">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/avatar/event_avatar_w_nasrun.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1" >
+</div>
+</div>
+<div class="itemInfo">
+<span style="color:#00eaff;font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Devil's Spirit B grade(F) (+1)</span><br><br><span style="color:#efdaa4;">Sort of item: Devil spirit's</span><br><br>There is no words for this image<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style="color:#efdaa4;font-weight:bold;">Awaken period</span><br>19 Days</div>
+</div>
+
+<button id="idShowSet" class="btn-equip-set"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+</div><div class="clear"></div>
+<script type="text/javascript">
+                                        jQuery('#idShowAvatar').click(function () {
+                                            jQuery('#idInventorySet').addClass('hidden');
+                                            jQuery('#idInventoryAvatar').removeClass('hidden');
+                                        });
+                                        jQuery('#idShowSet').click(function () {
+                                            jQuery('#idInventoryAvatar').addClass('hidden');
+                                            jQuery('#idInventorySet').removeClass('hidden');
+                                        });
+
+                                        function itemInfo() {
+                                            jQuery(document).tooltip({
+                                                items: "[data-itemInfo], [title]",
+                                                position: {my: "left+5 center", at: "right center"},
+                                                content: function () {
+                                                    var element = jQuery(this);
+                                                    if (jQuery(this).prop("tagName").toUpperCase() == 'IFRAME') {
+                                                        return;
+                                                    }
+                                                    if (element.is("[data-itemInfo]")) {
+                                                        if (element.parent().parent().find('.itemInfo').html() == '') {
+                                                            return;
+                                                        }
+                                                        return element.parent().parent().find('.itemInfo').html();
+                                                    }
+                                                    if (element.is("[title]")) {
+                                                        return element.attr("title");
+                                                    }
+                                                }
+                                            });
+                                        }
+
+                                        jQuery(document).ready(function () {
+                                            itemInfo();
+                                        });
+                                    </script>
+</div>
+<div class="char-info-menu">
+<ul>
+<li><a href="#char-unique">Genel Unique Bilgileri</a></li>
+<li><a href="#char-last-unique">Son Kesilen 10 Unique</a></li>
+<li><a href="#char-global">Son Atılan 10 Global</a></li>
+</ul>
+</div>
+<br>
+<div id="char-unique" class="char-unique-result">
+<table>
+<tr>
+<td>
+Toplam Kesilen Unique Sayısı
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+Kesilen Uniqueler
+</td>
+<td>
+</td>
+</tr>
+</table>
+</div>
+<div id="char-last-unique" class="char-last-unique-result hidden">
+<table>
+</table>
+</div>
+<div id="char-global" class="char-global-result hidden">
+<table>
+</table>
+</div>
+<script type="text/javascript">
+                                    $('.char-info-menu').find('ul > li > a').click(function (e) {
+                                        e.preventDefault();
+                                        var link = $(this);
+                                        $('.char-info-menu').find('ul > li > a').removeClass('active');
+                                        link.addClass('active');
+                                        $('#char-unique, #char-last-unique, #char-global').addClass('hidden');
+                                        $(link.attr('href')).removeClass('hidden');
+                                    })
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+   
+
+                     

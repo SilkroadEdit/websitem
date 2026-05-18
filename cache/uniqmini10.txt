@@ -1,0 +1,6 @@
+    <table>
+        <tr>
+        <td>Sıra</td>
+        <td>Oyuncu Adı</td>
+        <td>Item Puanı</td>
+    </tr></tbody></table>

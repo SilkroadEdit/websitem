@@ -1,0 +1,396 @@
+<div id="content">
+<div class="haberBoxBg">
+<div class="haberBox">
+<h3>Karakter Bilgileri</h3>
+<br>
+<div class="charinfo">
+<div class="lonca-profil-ad">
+<div class="karakter-detay"><span class="karakter-adi">_Virgina_</span></div>
+<div class="karakter-seviye">
+<div class="seviye"><span>98</span></div>
+<span class="seviye-span">Level :</span></div>
+<div class="clear"></div>
+</div>
+<div class="char-top-wrapper">
+<div class="char-info pull-left">
+<div class="char-img pull-left">
+<img src="/media/images/char/1922.gif" alt />
+</div>
+<div class="char-info-list pull-right">
+<ul class="list-unstyled">
+<li>
+<span class="text-bold">Karakter:</span>
+<span class="text-danger">_Virgina_</span>
+</li>
+<li>
+<span class="text-bold">Guild:</span>
+<span class="text-danger"><a class="text-danger" href="guildinfo.php?q=0"><a id="dumb-button" onclick="return false;"><span class="text-danger">yok</span></a></a></span>
+</li>
+<li>
+<span class="text-bold">Level:</span>
+<span class="text-danger">98</span>
+</li>
+<li>
+<span class="text-bold">Strength:</span>
+<span class="text-danger">141</span>
+</li>
+<li>
+<span class="text-bold">Intellect:</span>
+<span class="text-danger">384</span>
+</li>
+<li>
+<span class="text-bold">Gold:</span>
+<span class="text-danger">236.224.848.7</span>
+</li>
+<li>
+<span class="text-bold">Inventory Size:</span>
+<span class="text-danger">109</span>
+</li>
+	
+<li>
+<span class="text-bold">Job:</span>
+<span class="text-danger"> Yok</span>
+</li>
+				<li>
+<span class="text-bold">Item Point:</span>
+<span class="text-danger">398</span>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="idInventorySet" class="bg-equipment pull-right">
+<div class="slots 6 left weapon">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/weapon/sword_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Legendary Break Heaven Sword (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Sword</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. atk. pwr. 1477 ~ 1649 (+45%)<br>
+				Mag. atk. pwr. 2471 ~ 2808 (+12%)<br>
+				Durability 118/123 (+3%)<br>
+				Attack rating 179 (+51%)<br>
+				Critical 3 (+0%)<br>
+				Phy. reinforce 213.2 % ~ 240.3 % (+32%)<br>
+				Mag. reinforce 362.3 % ~ 416.5 % (+29%)<br><br>Required level 98<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Steady( 1 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Str  1 Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 7 right shield">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/shield/shield_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> White Tiger Bone Shield (+3)</span><br><br><span style="color:#efdaa4;">Sort of item: Shield</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. def. pwr. 219.1 (+45%)<br>
+				Mag. def. pwr. 351.1 (+48%)<br>
+				Durability 92/96 (+29%)<br>
+				Blocking rate 13 (+22%)<br>
+				Phy. reinforce 31.6 (+16%)<br>
+				Mag. reinforce 53.6 (+41%)<br><br>Required level 98<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Steady( 1 Time/times)</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 0 left head">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/light_10_ca.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Holy Witacheon Coronet</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Protector<br>
+		Mounting Part: Head</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 135.1 (+0%)<br>
+			Mag. def. pwr. 230.1 (+22%)<br>
+			Durability 80/83 (+0%)<br>
+			Parry rate 45.0 (+6%)<br>
+			Phy. reinforce 23.5 (+22%)<br>
+			Mag. reinforce 39.9 (+51%)<br><br>Required level 91<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 2 right shoulder">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/light_10_sa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Glory Witacheon Shell</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Protector<br>
+		Mounting Part: Shoulder</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 123.7 (+19%)<br>
+			Mag. def. pwr. 204.5 (+0%)<br>
+			Durability 84/88 (+22%)<br>
+			Parry rate 41.0 (+22%)<br>
+			Phy. reinforce 20.3 (+0%)<br>
+			Mag. reinforce 34.1 (+0%)<br><br>Required level 94<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Steady( 1 Time/times)</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 1 left chest">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/heavy_10_ba.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Black Tiger Armor</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Armor<br>
+		Mounting Part: Chest</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 227.3 (+25%)<br>
+			Mag. def. pwr. 294.4 (+12%)<br>
+			Durability 97/99 (+25%)<br>
+			Parry rate 60.0 (+3%)<br>
+			Phy. reinforce 36.9 (+25%)<br>
+			Mag. reinforce 48.2 (+19%)<br><br>Required level 96<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 3 right hands">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/light_10_aa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Divine Witacheon Glove</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Protector<br>
+		Mounting Part: Hands</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 132.3 (+64%)<br>
+			Mag. def. pwr. 214.2 (+3%)<br>
+			Durability 92/101 (+74%)<br>
+			Parry rate 40.0 (+0%)<br>
+			Phy. reinforce 20.5 (+3%)<br>
+			Mag. reinforce 34.6 (+22%)<br><br>Required level 98<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 4 left legs">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/light_10_la.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Glory Witacheon Tasset</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Protector<br>
+		Mounting Part: Legs</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 172.1 (+58%)<br>
+			Mag. def. pwr. 280.5 (+9%)<br>
+			Durability 95/90 (+22%)<br>
+			Parry rate 51.0 (+9%)<br>
+			Phy. reinforce 27.1 (+0%)<br>
+			Mag. reinforce 45.7 (+3%)<br><br>Required level 96<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Durability  10% Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 5 right foot">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/light_10_fa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Glory Witacheon Boots</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Protector<br>
+		Mounting Part: Foot</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+			Phy. def. pwr. 147.3 (+38%)<br>
+			Mag. def. pwr. 248.7 (+54%)<br>
+			Durability 84/86 (+6%)<br>
+			Parry rate 46.0 (+0%)<br>
+			Phy. reinforce 24.0 (+32%)<br>
+			Mag. reinforce 40.3 (+32%)<br><br>Required level 95<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 9 left earring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/necklace_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Luster Tiger's Eye Necklace</span><br><br><span style="color:#efdaa4;">Sort of item: Necklace</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. absorption 28.7 (+54%)<br>
+				Mag. absorption 28.6 (+41%)<br><br>Required level 96<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>PoisoningHour  1% Reduce</span><br><span style='color:#50cecd;font-weight: bold;'>BurnHour  3% Reduce</span><br><span style='color:#50cecd;font-weight: bold;'>ZombieHour  5% Reduce</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 10 right necklace">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/earring_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Bright Tiger's Eye Earring</span><br><br><span style="color:#efdaa4;">Sort of item: Earring</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. absorption 23.5 (+45%)<br>
+				Mag. absorption 23.4 (+29%)<br><br>Required level 91<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>ZombieHour  1% Reduce</span><br><span style='color:#50cecd;font-weight: bold;'>Immortal( 1 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Freezing,FrostbiteHour  3% Reduce</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 11 left lring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/ring_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Shine Tiger's Eye Ring</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. absorption 23.0 (+9%)<br>
+				Mag. absorption 23.4 (+77%)<br><br>Required level 98<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 12 right rring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/ring_10.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Shine Tiger's Eye Ring</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 10 degrees</span><br><br>
+				Phy. absorption 23.1 (+16%)<br>
+				Mag. absorption 23.0 (+3%)<br><br>Required level 98<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ 
+<button id="idShowAvatar" class="btn-equip-avatar"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+<div id="idInventoryAvatar" class="bg-equipment-avatar pull-right hidden">
+<div class="avatar-margin">
+
+<div class="slots slots 0 left hat">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 1 right flag">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 2 left dress">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 3 right attach">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 4 left spec">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/avatar/event_avatar_w_nasrun.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1" >
+</div>
+</div>
+<div class="itemInfo">
+<span style="color:#00eaff;font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Devil's Spirit B grade(F) (+1)</span><br><br><span style="color:#efdaa4;">Sort of item: Devil spirit's</span><br><br>There is no words for this image<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style="color:#efdaa4;font-weight:bold;">Awaken period</span><br>18 Days</div>
+</div>
+
+<button id="idShowSet" class="btn-equip-set"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+</div><div class="clear"></div>
+<script type="text/javascript">
+                                        jQuery('#idShowAvatar').click(function () {
+                                            jQuery('#idInventorySet').addClass('hidden');
+                                            jQuery('#idInventoryAvatar').removeClass('hidden');
+                                        });
+                                        jQuery('#idShowSet').click(function () {
+                                            jQuery('#idInventoryAvatar').addClass('hidden');
+                                            jQuery('#idInventorySet').removeClass('hidden');
+                                        });
+
+                                        function itemInfo() {
+                                            jQuery(document).tooltip({
+                                                items: "[data-itemInfo], [title]",
+                                                position: {my: "left+5 center", at: "right center"},
+                                                content: function () {
+                                                    var element = jQuery(this);
+                                                    if (jQuery(this).prop("tagName").toUpperCase() == 'IFRAME') {
+                                                        return;
+                                                    }
+                                                    if (element.is("[data-itemInfo]")) {
+                                                        if (element.parent().parent().find('.itemInfo').html() == '') {
+                                                            return;
+                                                        }
+                                                        return element.parent().parent().find('.itemInfo').html();
+                                                    }
+                                                    if (element.is("[title]")) {
+                                                        return element.attr("title");
+                                                    }
+                                                }
+                                            });
+                                        }
+
+                                        jQuery(document).ready(function () {
+                                            itemInfo();
+                                        });
+                                    </script>
+</div>
+<div class="char-info-menu">
+<ul>
+<li><a href="#char-unique">Genel Unique Bilgileri</a></li>
+<li><a href="#char-last-unique">Son Kesilen 10 Unique</a></li>
+<li><a href="#char-global">Son Atılan 10 Global</a></li>
+</ul>
+</div>
+<br>
+<div id="char-unique" class="char-unique-result">
+<table>
+<tr>
+<td>
+Toplam Kesilen Unique Sayısı
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+Kesilen Uniqueler
+</td>
+<td>
+</td>
+</tr>
+</table>
+</div>
+<div id="char-last-unique" class="char-last-unique-result hidden">
+<table>
+</table>
+</div>
+<div id="char-global" class="char-global-result hidden">
+<table>
+</table>
+</div>
+<script type="text/javascript">
+                                    $('.char-info-menu').find('ul > li > a').click(function (e) {
+                                        e.preventDefault();
+                                        var link = $(this);
+                                        $('.char-info-menu').find('ul > li > a').removeClass('active');
+                                        link.addClass('active');
+                                        $('#char-unique, #char-last-unique, #char-global').addClass('hidden');
+                                        $(link.attr('href')).removeClass('hidden');
+                                    })
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+   
+
+                     

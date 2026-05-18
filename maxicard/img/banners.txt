@@ -1,0 +1,82 @@
+<center>
+<a href="https://www.maxigame.com/k/296-maxicard.html" target="_blank"><img src="maxicard/img/maxigame700.gif" width="700" height="90"></a>
+</center>
+
+<br />
+
+630px  81px
+
+<div align="right">
+<a href="https://www.maxigame.com/k/296-maxicard.html" target="_blank"><img src="maxicard/img/maxigame700.gif" width="630" height="81"></a>
+</div>
+
+
+<iframe src="maxicard/tl_epin_yukle.php" style="width:600px; height:370px; border:none;"></iframe>
+
+<a href="https://www.maxigame.com/odeme-secenekleri.html" target="_blank"><img src="maxicard/img/sol_banner.gif" width="190" height="364"></a>
+
+
+<a href="maxicard/tl_epin_yukle.php" target="_blank"><img src="maxicard/img/tl_yukle.png" width="190" height="53"></a>
+
+
+-------------------
+
+<br />
+<article class="sidebox">
+<h1 class="top-sidebox"><p>Ödeme Seçenekleri</p></h1>
+<section class="body">
+<center>			
+<a href="https://www.maxigame.com/odeme-secenekleri.html" target="_blank"><img src="maxicard/img/sol_banner.gif"></a>				
+</center>				
+<div style="clear:both;"></div>
+</section>
+</article>
+
+
+<div align="right">
+<a href="https://www.maxigame.com/k/296-maxicard.html" target="_blank"><img src="maxicard/img/maxigame700.gif" width="630" height="81"></a>
+</div>
+<div class="spacer"></div>
+
+
+<li><a href="maxicard/tl_epin_yukle.php" target="_blank"><font color="limegreen"><b>MaxiCard E-Pin Yükle</b></font></a></li>
+<li><a href="https://www.maxigame.com/k/296-maxicard.html" target="_blank"><font color="orange"><b>MaxiCard E-Pin Satýn Al</b></font></a></li>
+
+-----------------------------------
+
+///// OB Y. P /// 
+
+		<div id="leftcontents">
+		<div id="lefticerik">
+			<div id="title">MaxiCard Satýn AL</div>
+			<div id="leftrightContent">						
+			<a href="https://www.maxigame.com/k/296-maxicard-private-serverlar.html" target="_blank"><img src="maxicard/img/tl_al.png" style="border:none;width:220px;border-shadow:none;background:none" /></a>		
+			</div>
+		</div>
+
+////////////
+		<div id="leftcontents">
+		<div id="lefticerik">
+			<div id="title">Sponsorlar</div>
+			<div id="leftrightContent">						
+			<a href="https://www.maxigame.com" rel="dofollow" title="MaxiGame | Maximum Bilgi Maximum Eðlence" target="_blank"><img alt="MaxiGame | Online Oyunlar ve Paylaþým Platformu" src="https://www.maxigame.com/img/logo.png" style="border:none;width:220px;border-shadow:none;box-shadow:none;background:none;align:center;" /></a>
+<br />
+			<a href="https://www.hitpvp.com" rel="dofollow" title="Serverimize oy vererek destek olunuz" target="_blank"><img src="https://www.hitpvp.com/img/hit200mavi.gif" alt="HitPvP" style="border:none;width:220px;border-shadow:none;box-shadow:none;background:none;align:center;" /></a>
+			</div>
+		</div>
+
+-----------------------------------
+
+LOGO
+
+<a href="https://www.maxigame.com" rel="dofollow" title="MaxiGame | Maximum Bilgi Maximum Eðlence" target="_blank"><img alt="MaxiGame | Online Oyunlar ve Paylaþým Platformu" src="https://www.maxigame.com/img/logo.png" width="190" height="121" /></a><br /><br />
+
+<a href="https://www.hitpvp.com" rel="dofollow" title="HitPvP | Serverimize oy vererek destek olunuz" target="_blank"><img src="https://www.hitpvp.com/img/hit200mavi.gif" alt="HitPvP" width="190" height="67" /></a>
+
+<br />
+<br />
+
+<a href="https://www.vsroforum.com" rel="dofollow" title="vSRO Bilgi ve Paylaþým Platformu" target="_blank"><img src="https://www.vsroforum.com/vfre/vsroforum_logo.png" alt="HitPvP" width="190" height="69" /></a>
+
+
+https://windows.php.net/downloads/releases/archives/php-5.3.9-Win32-VC9-x86.msi

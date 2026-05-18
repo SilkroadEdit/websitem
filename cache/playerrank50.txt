@@ -1,0 +1,510 @@
+    <div id="ranking-result" class="ranking-tables">
+<table>
+        <tr class="first">
+            <td width="10">Sıra</td>
+            <td width="230">Oyuncu Adı</td>
+            <td width="190">Guild</td>
+            <td width="94">Level</td>
+            <td width="94">Item Puanı</td>
+        </tr>
+        
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+             
+			<td><a href="charinfo.php?q=8873">Seva</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 520</td>
+
+		
+   </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophySecond"></i></td>
+             
+			<td><a href="charinfo.php?q=7937">Titan_EviL</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 480</td>
+
+		
+   </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyThird"></i></td>
+             
+			<td><a href="charinfo.php?q=7953">MaFia97</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 463</td>
+
+		
+   </tr>
+<tr>
+                	 <td>4</td>
+             
+			<td><a href="charinfo.php?q=7945">RiseOutLaw</a></td>
+			<td><a href="guildinfo.php?q=">InCridable</td>
+			<td> 110</td>
+			<td> 455</td>
+
+		
+   </tr>
+<tr>
+                	 <td>5</td>
+             
+			<td><a href="charinfo.php?q=7940">FlyInTheSky</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 453</td>
+
+		
+   </tr>
+<tr>
+                	 <td>6</td>
+             
+			<td><a href="charinfo.php?q=7996">BlackWater</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 104</td>
+			<td> 447</td>
+
+		
+   </tr>
+<tr>
+                	 <td>7</td>
+             
+			<td><a href="charinfo.php?q=8033">Pixy</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 436</td>
+
+		
+   </tr>
+<tr>
+                	 <td>8</td>
+             
+			<td><a href="charinfo.php?q=7871">Wrong_Target</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 427</td>
+
+		
+   </tr>
+<tr>
+                	 <td>9</td>
+             
+			<td><a href="charinfo.php?q=8043">SUN_STAFF</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 107</td>
+			<td> 426</td>
+
+		
+   </tr>
+<tr>
+                	 <td>10</td>
+             
+			<td><a href="charinfo.php?q=8462">anN</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 107</td>
+			<td> 421</td>
+
+		
+   </tr>
+<tr>
+                	 <td>11</td>
+             
+			<td><a href="charinfo.php?q=7906">INeverWakeUP</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 415</td>
+
+		
+   </tr>
+<tr>
+                	 <td>12</td>
+             
+			<td><a href="charinfo.php?q=8874">Serin</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 105</td>
+			<td> 413</td>
+
+		
+   </tr>
+<tr>
+                	 <td>13</td>
+             
+			<td><a href="charinfo.php?q=7949">_KraToS_</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 410</td>
+
+		
+   </tr>
+<tr>
+                	 <td>14</td>
+             
+			<td><a href="charinfo.php?q=7870">NightMar4eE</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 408</td>
+
+		
+   </tr>
+<tr>
+                	 <td>15</td>
+             
+			<td><a href="charinfo.php?q=8050">Last_Hell</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 408</td>
+
+		
+   </tr>
+<tr>
+                	 <td>16</td>
+             
+			<td><a href="charinfo.php?q=7939">MusclesBoii</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 406</td>
+
+		
+   </tr>
+<tr>
+                	 <td>17</td>
+             
+			<td><a href="charinfo.php?q=8049">Olevia</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 404</td>
+
+		
+   </tr>
+<tr>
+                	 <td>18</td>
+             
+			<td><a href="charinfo.php?q=8560">7ThOcean</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 109</td>
+			<td> 403</td>
+
+		
+   </tr>
+<tr>
+                	 <td>19</td>
+             
+			<td><a href="charinfo.php?q=8288">Eden</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 401</td>
+
+		
+   </tr>
+<tr>
+                	 <td>20</td>
+             
+			<td><a href="charinfo.php?q=7893">iDynamiter</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 109</td>
+			<td> 401</td>
+
+		
+   </tr>
+<tr>
+                	 <td>21</td>
+             
+			<td><a href="charinfo.php?q=8822">iTwins</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 107</td>
+			<td> 401</td>
+
+		
+   </tr>
+<tr>
+                	 <td>22</td>
+             
+			<td><a href="charinfo.php?q=7946">CL4RoTechniK</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 399</td>
+
+		
+   </tr>
+<tr>
+                	 <td>23</td>
+             
+			<td><a href="charinfo.php?q=8032">Man__0F__War</a></td>
+			<td><a href="guildinfo.php?q=">InCridable</td>
+			<td> 103</td>
+			<td> 399</td>
+
+		
+   </tr>
+<tr>
+                	 <td>24</td>
+             
+			<td><a href="charinfo.php?q=8696">V_4_Vandetta</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 103</td>
+			<td> 399</td>
+
+		
+   </tr>
+<tr>
+                	 <td>25</td>
+             
+			<td><a href="charinfo.php?q=7973">Turbo_N0S</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 398</td>
+
+		
+   </tr>
+<tr>
+                	 <td>26</td>
+             
+			<td><a href="charinfo.php?q=8029">Mirajane</a></td>
+			<td><a href="guildinfo.php?q=">Hacktivity</td>
+			<td> 108</td>
+			<td> 398</td>
+
+		
+   </tr>
+<tr>
+                	 <td>27</td>
+             
+			<td><a href="charinfo.php?q=7944">_Virgina_</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 98</td>
+			<td> 398</td>
+
+		
+   </tr>
+<tr>
+                	 <td>28</td>
+             
+			<td><a href="charinfo.php?q=7872">MonkeyTanker</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 106</td>
+			<td> 397</td>
+
+		
+   </tr>
+<tr>
+                	 <td>29</td>
+             
+			<td><a href="charinfo.php?q=8016">Predator</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 103</td>
+			<td> 387</td>
+
+		
+   </tr>
+<tr>
+                	 <td>30</td>
+             
+			<td><a href="charinfo.php?q=7889">Alivex3</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 386</td>
+
+		
+   </tr>
+<tr>
+                	 <td>31</td>
+             
+			<td><a href="charinfo.php?q=8041">Marita</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 384</td>
+
+		
+   </tr>
+<tr>
+                	 <td>32</td>
+             
+			<td><a href="charinfo.php?q=8098">Red</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 108</td>
+			<td> 383</td>
+
+		
+   </tr>
+<tr>
+                	 <td>33</td>
+             
+			<td><a href="charinfo.php?q=8879">VitaminB12</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 106</td>
+			<td> 382</td>
+
+		
+   </tr>
+<tr>
+                	 <td>34</td>
+             
+			<td><a href="charinfo.php?q=7894">TheDarkHorse</a></td>
+			<td><a href="guildinfo.php?q=">Provision</td>
+			<td> 108</td>
+			<td> 381</td>
+
+		
+   </tr>
+<tr>
+                	 <td>35</td>
+             
+			<td><a href="charinfo.php?q=7927">VIN_DESIEL</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 105</td>
+			<td> 381</td>
+
+		
+   </tr>
+<tr>
+                	 <td>36</td>
+             
+			<td><a href="charinfo.php?q=8042">Queen_Soul</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 380</td>
+
+		
+   </tr>
+<tr>
+                	 <td>37</td>
+             
+			<td><a href="charinfo.php?q=7881">FlaX</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 110</td>
+			<td> 379</td>
+
+		
+   </tr>
+<tr>
+                	 <td>38</td>
+             
+			<td><a href="charinfo.php?q=8495">LindoR</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 106</td>
+			<td> 378</td>
+
+		
+   </tr>
+<tr>
+                	 <td>39</td>
+             
+			<td><a href="charinfo.php?q=7900">_D_K_</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 376</td>
+
+		
+   </tr>
+<tr>
+                	 <td>40</td>
+             
+			<td><a href="charinfo.php?q=7925">RunOrStun</a></td>
+			<td><a href="guildinfo.php?q=">Alex</td>
+			<td> 107</td>
+			<td> 375</td>
+
+		
+   </tr>
+<tr>
+                	 <td>41</td>
+             
+			<td><a href="charinfo.php?q=8277">Tiger</a></td>
+			<td><a href="guildinfo.php?q=">EarthMasterS</td>
+			<td> 109</td>
+			<td> 372</td>
+
+		
+   </tr>
+<tr>
+                	 <td>42</td>
+             
+			<td><a href="charinfo.php?q=7897">__RoDe__</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 110</td>
+			<td> 371</td>
+
+		
+   </tr>
+<tr>
+                	 <td>43</td>
+             
+			<td><a href="charinfo.php?q=7942">RoboCop</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 370</td>
+
+		
+   </tr>
+<tr>
+                	 <td>44</td>
+             
+			<td><a href="charinfo.php?q=8305">Nem0</a></td>
+			<td><a href="guildinfo.php?q=">EarthMasterS</td>
+			<td> 109</td>
+			<td> 370</td>
+
+		
+   </tr>
+<tr>
+                	 <td>45</td>
+             
+			<td><a href="charinfo.php?q=8322">TheLady</a></td>
+			<td><a href="guildinfo.php?q=">EarthMasterS</td>
+			<td> 109</td>
+			<td> 370</td>
+
+		
+   </tr>
+<tr>
+                	 <td>46</td>
+             
+			<td><a href="charinfo.php?q=7954">CraZy_ViPeR</a></td>
+			<td><a href="guildinfo.php?q="><a id="dumb-button"  onclick="return false;"><font color="darkgray">&lt;Guildsiz&gt;</font></a></td>
+			<td> 110</td>
+			<td> 369</td>
+
+		
+   </tr>
+<tr>
+                	 <td>47</td>
+             
+			<td><a href="charinfo.php?q=8502">DeadlyCrow</a></td>
+			<td><a href="guildinfo.php?q=">OutOfControl</td>
+			<td> 108</td>
+			<td> 369</td>
+
+		
+   </tr>
+<tr>
+                	 <td>48</td>
+             
+			<td><a href="charinfo.php?q=7974">Dance_Q</a></td>
+			<td><a href="guildinfo.php?q=">Paranormal</td>
+			<td> 110</td>
+			<td> 368</td>
+
+		
+   </tr>
+<tr>
+                	 <td>49</td>
+             
+			<td><a href="charinfo.php?q=8026">5eX</a></td>
+			<td><a href="guildinfo.php?q=">Hacktivity</td>
+			<td> 109</td>
+			<td> 366</td>
+
+		
+   </tr>
+<tr>
+                	 <td>50</td>
+             
+			<td><a href="charinfo.php?q=8021">Blackened</a></td>
+			<td><a href="guildinfo.php?q=">Divinity</td>
+			<td> 105</td>
+			<td> 366</td>
+
+		
+   </tr>

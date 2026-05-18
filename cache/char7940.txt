@@ -1,0 +1,385 @@
+<div id="content">
+<div class="haberBoxBg">
+<div class="haberBox">
+<h3>Karakter Bilgileri</h3>
+<br>
+<div class="charinfo">
+<div class="lonca-profil-ad">
+<div class="karakter-detay"><span class="karakter-adi">FlyInTheSky</span></div>
+<div class="karakter-seviye">
+<div class="seviye"><span>110</span></div>
+<span class="seviye-span">Level :</span></div>
+<div class="clear"></div>
+</div>
+<div class="char-top-wrapper">
+<div class="char-info pull-left">
+<div class="char-img pull-left">
+<img src="/media/images/char/1927.gif" alt />
+</div>
+<div class="char-info-list pull-right">
+<ul class="list-unstyled">
+<li>
+<span class="text-bold">Karakter:</span>
+<span class="text-danger">FlyInTheSky</span>
+</li>
+<li>
+<span class="text-bold">Guild:</span>
+<span class="text-danger"><a class="text-danger" href="guildinfo.php?q=923">Paranormal</a></span>
+</li>
+<li>
+<span class="text-bold">Level:</span>
+<span class="text-danger">110</span>
+</li>
+<li>
+<span class="text-bold">Strength:</span>
+<span class="text-danger">129</span>
+</li>
+<li>
+<span class="text-bold">Intellect:</span>
+<span class="text-danger">456</span>
+</li>
+<li>
+<span class="text-bold">Gold:</span>
+<span class="text-danger">169.847.483.3</span>
+</li>
+<li>
+<span class="text-bold">Inventory Size:</span>
+<span class="text-danger">109</span>
+</li>
+	
+<li>
+<span class="text-bold">Job:</span>
+<span class="text-danger"> Yok</span>
+</li>
+				<li>
+<span class="text-bold">Item Point:</span>
+<span class="text-danger">453</span>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="idInventorySet" class="bg-equipment pull-right">
+<div class="slots 6 left weapon">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 	  </div> 
+ <div class="slots 7 right shield">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/shield/shield_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Splinter Blade Shield (+1)</span><br><br><span style="color:#efdaa4;">Sort of item: Shield</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. def. pwr. 225.1 (+38%)<br>
+				Mag. def. pwr. 357.5 (+25%)<br>
+				Durability 92/93 (+9%)<br>
+				Blocking rate 13 (+22%)<br>
+				Phy. reinforce 33.9 (+41%)<br>
+				Mag. reinforce 56.4 (+19%)<br><br>Required level 101<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Str  1 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Immortal( 2 Time/times)</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 0 left head">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_ha.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako Sky God Hat (+7)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Head</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 205.0 (+6%)<br>
+			Mag. def. pwr. 438.0 (+12%)<br>
+			Durability 65/85 (+35%)<br>
+			Parry rate 51.0 (+67%)<br>
+			Phy. reinforce 26.1 (+6%)<br>
+			Mag. reinforce 55.4 (+0%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>MP  1300 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Str  6 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Int  6 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>HP  850 Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 2 right shoulder">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_sa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+ <span class="qinfo"></span> <span class="plus"></span></div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#f2e43d;font-weight: bold;margin-left:-5px;"> Drako Sky God Talisman (+5)</span><br><br><span style="color:#f2e43d;font-weight: bold;">Seal of Nova</span><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Shoulder</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 181.1 (+12%)<br>
+			Mag. def. pwr. 381.5 (+0%)<br>
+			Durability 70/84 (+19%)<br>
+			Parry rate 45.0 (+0%)<br>
+			Phy. reinforce 23.4 (+16%)<br>
+			Mag. reinforce 50.3 (+45%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 1 left chest">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_ba.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako Sky God Suit (+7)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Chest</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 276.9 (+38%)<br>
+			Mag. def. pwr. 589.2 (+35%)<br>
+			Durability 72/83 (+19%)<br>
+			Parry rate 63.0 (+3%)<br>
+			Phy. reinforce 34.6 (+16%)<br>
+			Mag. reinforce 73.8 (+19%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Steady( 1 Time/times)</span><br><span style='color:#50cecd;font-weight: bold;'>Str  6 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>HP  1300 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Int  6 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>MP  1300 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Parry rate  60% Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 3 right hands">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_aa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Drako Sky God Wristlet (+5)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Hands</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 148.0 (+48%)<br>
+			Mag. def. pwr. 315.4 (+51%)<br>
+			Durability 68/78 (+0%)<br>
+			Parry rate 41.0 (+22%)<br>
+			Phy. reinforce 19.7 (+16%)<br>
+			Mag. reinforce 41.7 (+3%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 4 left legs">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_la.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Drako Sky God Trousers (+5)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Legs</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 220.0 (+77%)<br>
+			Mag. def. pwr. 460.9 (+45%)<br>
+			Durability 77/89 (+54%)<br>
+			Parry rate 54.0 (+3%)<br>
+			Phy. reinforce 28.4 (+19%)<br>
+			Mag. reinforce 61.4 (+61%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Parry rate  20% Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Int  2 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>HP  1300 Increase</span><br><span style='color:#50cecd;font-weight: bold;'>Str  7 Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 5 right foot">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/woman_item/clothes_11_fa.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Drako Sky God Shoes (+5)</span><br><br>
+		<span style="color:#efdaa4;">Sort of item: Garment<br>
+		Mounting Part: Foot</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+			Phy. def. pwr. 185.4 (+25%)<br>
+			Mag. def. pwr. 389.6 (+3%)<br>
+			Durability 79/88 (+51%)<br>
+			Parry rate 49.0 (+25%)<br>
+			Phy. reinforce 24.8 (+32%)<br>
+			Mag. reinforce 52.7 (+22%)<br><br>Required level 101<br>Chinese<br>Female<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 9 left earring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/necklace_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Paradise Jewel Necklace</span><br><br><span style="color:#efdaa4;">Sort of item: Necklace</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 31.0 (+0%)<br>
+				Mag. absorption 31.3 (+41%)<br><br>Required level 101<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 10 right necklace">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/earring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Paradise Jewel Earring</span><br><br><span style="color:#efdaa4;">Sort of item: Earring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 26.6 (+12%)<br>
+				Mag. absorption 26.6 (+16%)<br><br>Required level 101<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>Str  2 Increase</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 11 left lring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/ring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="color:#50cecd;font-weight: bold;margin-left:-5px;"> Paradise Jewel Ring</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 24.2 (+19%)<br>
+				Mag. absorption 24.3 (+22%)<br><br>Required level 101<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><br><span style='color:#50cecd;font-weight: bold;'>BurnHour  3% Reduce</span><br><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ <div class="slots 12 right rring">
+<div class="itemslot">
+<div class="image"  style="background:url(./media/images/equipment/item/china/acc/ring_11.PNG) no-repeat; background-size: 34px 34px;" data-itemInfo="1">
+</div>
+</div>
+<div class="itemInfo">
+<img src="/media/images/equipment/com_itemsign.PNG" class="imageclear">
+		<span style="font-weight: bold;margin-left:-5px;"> Paradise Jewel Ring</span><br><br><span style="color:#efdaa4;">Sort of item: Ring</span><br><span style="color:#efdaa4;">Degree: 11 degrees</span><br><br>
+				Phy. absorption 24.4 (+45%)<br>
+				Mag. absorption 24.2 (+3%)<br><br>Required level 101<br>Chinese<br><br><span style="color:#efdaa4;">Max. no. of magic options: 9 Unit</span><br><span style="font-weight:bold">Able to use Advanced elixir.</span></br></div>
+	  </div> 
+ 
+<button id="idShowAvatar" class="btn-equip-avatar"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+<div id="idInventoryAvatar" class="bg-equipment-avatar pull-right hidden">
+<div class="avatar-margin">
+
+<div class="slots slots 0 left hat">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 1 right flag">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 2 left dress">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 3 right attach">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<div class="slots slots 4 left spec">
+<div class="itemslot">
+<div class="image"   >
+</div>
+</div>
+    
+	 </div>
+
+<button id="idShowSet" class="btn-equip-set"></button>
+<div class="equip-suit-slot">
+<div class="itemslot">
+<div class="image">
+</div>
+</div>
+<div class="itemInfo">
+<span style="font-weight: bold;"><img src="/media/images/equipment/com_itemsign.PNG" class="imageclear"> </img></span></br></br> </div>
+</div>
+</div>
+</div><div class="clear"></div>
+<script type="text/javascript">
+                                        jQuery('#idShowAvatar').click(function () {
+                                            jQuery('#idInventorySet').addClass('hidden');
+                                            jQuery('#idInventoryAvatar').removeClass('hidden');
+                                        });
+                                        jQuery('#idShowSet').click(function () {
+                                            jQuery('#idInventoryAvatar').addClass('hidden');
+                                            jQuery('#idInventorySet').removeClass('hidden');
+                                        });
+
+                                        function itemInfo() {
+                                            jQuery(document).tooltip({
+                                                items: "[data-itemInfo], [title]",
+                                                position: {my: "left+5 center", at: "right center"},
+                                                content: function () {
+                                                    var element = jQuery(this);
+                                                    if (jQuery(this).prop("tagName").toUpperCase() == 'IFRAME') {
+                                                        return;
+                                                    }
+                                                    if (element.is("[data-itemInfo]")) {
+                                                        if (element.parent().parent().find('.itemInfo').html() == '') {
+                                                            return;
+                                                        }
+                                                        return element.parent().parent().find('.itemInfo').html();
+                                                    }
+                                                    if (element.is("[title]")) {
+                                                        return element.attr("title");
+                                                    }
+                                                }
+                                            });
+                                        }
+
+                                        jQuery(document).ready(function () {
+                                            itemInfo();
+                                        });
+                                    </script>
+</div>
+<div class="char-info-menu">
+<ul>
+<li><a href="#char-unique">Genel Unique Bilgileri</a></li>
+<li><a href="#char-last-unique">Son Kesilen 10 Unique</a></li>
+<li><a href="#char-global">Son Atılan 10 Global</a></li>
+</ul>
+</div>
+<br>
+<div id="char-unique" class="char-unique-result">
+<table>
+<tr>
+<td>
+Toplam Kesilen Unique Sayısı
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>
+Kesilen Uniqueler
+</td>
+<td>
+</td>
+</tr>
+</table>
+</div>
+<div id="char-last-unique" class="char-last-unique-result hidden">
+<table>
+</table>
+</div>
+<div id="char-global" class="char-global-result hidden">
+<table>
+</table>
+</div>
+<script type="text/javascript">
+                                    $('.char-info-menu').find('ul > li > a').click(function (e) {
+                                        e.preventDefault();
+                                        var link = $(this);
+                                        $('.char-info-menu').find('ul > li > a').removeClass('active');
+                                        link.addClass('active');
+                                        $('#char-unique, #char-last-unique, #char-global').addClass('hidden');
+                                        $(link.attr('href')).removeClass('hidden');
+                                    })
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+   
+
+                     

@@ -1,0 +1,142 @@
+    <div id="ranking-result" class="ranking-tables"><table>
+       <tbody><tr class="first">
+        
+            <td width="50">Sıra</th>
+            <td width="200">Guild ismi</th>
+            <td width="200">Guild Başkanı</th>
+            <td width="110">Guild Leveli</th>
+            <td width="100">Üyeler</th>
+            <td width="110">Toplam Item Puanı</th>
+        </tr>
+<tr data-toggle="tooltip" title="Paranormal Toplam Gold Miktarı : ">
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+             
+			<td><a href="guildinfo.php?q=923">Paranormal</td>
+			<td><a href="charinfo.php?q=7937">Titan_EviL</a></td>
+			<td> 5</td>
+			
+			<td> 33</td>
+			<td> 11229</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="OutOfControl Toplam Gold Miktarı : ">
+                	 <td><i class="fa fa-trophy fa-fw trophySecond"></i></td>
+             
+			<td><a href="guildinfo.php?q=921">OutOfControl</td>
+			<td><a href="charinfo.php?q=7889">Alivex3</a></td>
+			<td> 5</td>
+			
+			<td> 29</td>
+			<td> 9874</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="EarthMasterS Toplam Gold Miktarı : ">
+                	 <td><i class="fa fa-trophy fa-fw trophyThird"></i></td>
+             
+			<td><a href="guildinfo.php?q=929">EarthMasterS</td>
+			<td><a href="charinfo.php?q=8277">Tiger</a></td>
+			<td> 5</td>
+			
+			<td> 7</td>
+			<td> 1488</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="Divinity Toplam Gold Miktarı : ">
+                	 <td>4</td>
+             
+			<td><a href="guildinfo.php?q=927">Divinity</td>
+			<td><a href="charinfo.php?q=8019">Ragnar</a></td>
+			<td> 5</td>
+			
+			<td> 4</td>
+			<td> 1350</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="Qivin-X Official Team Toplam Gold Miktarı : ">
+                	 <td>5</td>
+             
+			<td><a href="guildinfo.php?q=920">Qivin-X Official Team</td>
+			<td><a href="charinfo.php?q=7864">[Dev] Demetry</a></td>
+			<td> 5</td>
+			
+			<td> 4</td>
+			<td> 1313</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="Hacktivity Toplam Gold Miktarı : ">
+                	 <td>6</td>
+             
+			<td><a href="guildinfo.php?q=930">Hacktivity</td>
+			<td><a href="charinfo.php?q=8029">Mirajane</a></td>
+			<td> 4</td>
+			
+			<td> 3</td>
+			<td> 1111</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="InCridable Toplam Gold Miktarı : ">
+                	 <td>7</td>
+             
+			<td><a href="guildinfo.php?q=931">InCridable</td>
+			<td><a href="charinfo.php?q=7945">RiseOutLaw</a></td>
+			<td> 5</td>
+			
+			<td> 4</td>
+			<td> 878</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="Provision Toplam Gold Miktarı : ">
+                	 <td>8</td>
+             
+			<td><a href="guildinfo.php?q=922">Provision</td>
+			<td><a href="charinfo.php?q=7894">TheDarkHorse</a></td>
+			<td> 5</td>
+			
+			<td> 2</td>
+			<td> 409</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="Alex Toplam Gold Miktarı : ">
+                	 <td>9</td>
+             
+			<td><a href="guildinfo.php?q=933">Alex</td>
+			<td><a href="charinfo.php?q=7925">RunOrStun</a></td>
+			<td> 1</td>
+			
+			<td> 2</td>
+			<td> 378</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="ZeroSkill Toplam Gold Miktarı : ">
+                	 <td>10</td>
+             
+			<td><a href="guildinfo.php?q=928">ZeroSkill</td>
+			<td><a href="charinfo.php?q=8278">Alcalyx</a></td>
+			<td> 4</td>
+			
+			<td> 1</td>
+			<td> 231</td>
+		
+				
+   </tr>
+<tr data-toggle="tooltip" title="OWNERS Toplam Gold Miktarı : ">
+                	 <td>11</td>
+             
+			<td><a href="guildinfo.php?q=932">OWNERS</td>
+			<td><a href="charinfo.php?q=8973">Just4BarD</a></td>
+			<td> 1</td>
+			
+			<td> 2</td>
+			<td> 9</td>
+		
+				
+   </tr>

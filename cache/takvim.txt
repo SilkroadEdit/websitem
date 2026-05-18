@@ -1,0 +1,22 @@
+                                                <tr>
+                    <td><span style="font-weight: bold">Sunucu Saati</span></td>
+                    <td><span id="cur_time">00:00:00</span></td>
+                </tr> <tr>
+    <td><span style="font-weight: bold">Fortress War</span></td>
+    <td><span id="fortress_war">00:00:00</span></td>
+ </tr> 	
+ <tr>
+    <td><span style="font-weight: bold">Capture Flag</span></td>
+    <td><span id="capturetheflag">00:00:00</span></td>
+ </tr> 	
+ <tr>
+    <td><span style="font-weight: bold">B.A. (Job)</span></td>
+    <td><span id="ba_job">00:00:00</span></td>
+ </tr> 	
+
+				<script>
+				tTimer(iTimeStamp, "1712939400", "fortress_war");
+        window.setInterval('tTimer(iTimeStamp,"1712939400","fortress_war")', 250);				tTimer(iTimeStamp, "1712865600", "capturetheflag");
+        window.setInterval('tTimer(iTimeStamp,"1712865600","capturetheflag")', 250);				tTimer(iTimeStamp, "1712867400", "ba_job");
+        window.setInterval('tTimer(iTimeStamp,"1712867400","ba_job")', 250);
+			</script>     

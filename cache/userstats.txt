@@ -1,0 +1,20 @@
+	
+
+										<div id="content">
+<div class="haberBoxBg">
+<div class="haberBox">
+<h3>İstatistikler</h3>
+<br>
+<div style="text-align: center">
+<img src="media/images/error.png" alt />
+<br><br>
+<div class="bilgiilk hatu">
+<br>
+<font color="red" size="4px">Üzgünüz, Kullanıcı İstatistikleri şuan kapalı.</font>
+</div>
+</div>
+</div>
+</div>
+</div>                                   
+									
+ 

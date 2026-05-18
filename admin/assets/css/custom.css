@@ -1,0 +1,53 @@
+/* --- Loading --- */
+.loader-circular {
+    background: url("../img/loader.gif") no-repeat;
+    background-size: 30px 30px;
+    height: 34px;
+    width: 34px;
+    display: block;
+}
+
+.loader-horizontal {
+    background: url("../img/loader_horizontal.gif") no-repeat;
+    height: 11px;
+    width: 43px;
+    margin: 0 auto;
+}
+
+#ovd-loading {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -22px;
+    margin-left: -22px;
+    background: url("../img/ovd_sprite.png") 0 -108px;
+    opacity: 0.8;
+    cursor: pointer;
+    z-index: 8060;
+}
+
+#ovd-loading div {
+    width: 44px;
+    height: 44px;
+    background: url("../img/ovd_loading.gif") center center no-repeat;
+}
+
+.ovd-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 8010;
+    background: url("../img/ovd_overlay.png");
+}
+
+.ovd-overlay-fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.ovd-overlay {
+    overflow: auto;
+    overflow-y: scroll;
+}

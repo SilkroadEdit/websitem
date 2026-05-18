@@ -1,0 +1,96 @@
+   <table>
+        <tr>
+        <td>Sıra</td>
+        <td>Guild Adı</td>
+        <td>Item Puanı</td>
+    </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+             
+			<td><a href="guildinfo.php?q=923">Paranormal</td>
+
+			<td> 11229</td>
+		
+				
+   </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophySecond"></i></td>
+             
+			<td><a href="guildinfo.php?q=921">OutOfControl</td>
+
+			<td> 9874</td>
+		
+				
+   </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyThird"></i></td>
+             
+			<td><a href="guildinfo.php?q=929">EarthMasterS</td>
+
+			<td> 1488</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>4</td>
+             
+			<td><a href="guildinfo.php?q=927">Divinity</td>
+
+			<td> 1350</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>5</td>
+             
+			<td><a href="guildinfo.php?q=920">Qivin-X Official Team</td>
+
+			<td> 1313</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>6</td>
+             
+			<td><a href="guildinfo.php?q=930">Hacktivity</td>
+
+			<td> 1111</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>7</td>
+             
+			<td><a href="guildinfo.php?q=931">InCridable</td>
+
+			<td> 878</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>8</td>
+             
+			<td><a href="guildinfo.php?q=922">Provision</td>
+
+			<td> 409</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>9</td>
+             
+			<td><a href="guildinfo.php?q=933">Alex</td>
+
+			<td> 378</td>
+		
+				
+   </tr>
+<tr>
+                	 <td>10</td>
+             
+			<td><a href="guildinfo.php?q=928">ZeroSkill</td>
+
+			<td> 231</td>
+		
+				
+   </tr></tbody></table>

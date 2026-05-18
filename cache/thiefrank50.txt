@@ -1,0 +1,19 @@
+    <div id="ranking-result" class="ranking-tables"><table>
+       <tbody><tr class="first">
+        
+            <td width="10">Sıra</th>
+            <td width="300">Job Adı</th>
+            <td width="200">Job Level</th>
+            <td width="200">Tür</th>
+            <td width="200">Kazanılan Puan</th>
+        </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+             
+			<td>*NoThing2Hide</td>
+			<td>1</td>
+			<td><img src="/media/images/thief.jpg"> Thief</td>
+			<td> 0</td>
+			
+		
+   </tr>

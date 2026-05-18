@@ -1,0 +1,19 @@
+    <div id="ranking-result" class="ranking-tables"><table>
+       <tbody><tr class="first">
+        
+            <td width="10">Sıra</th>
+            <td width="145">İsim</th>
+            <td width="145">Guild</th>
+            <td width="85">Puan</th>
+            <td width="135">Toplam kesilen unique</th>
+        </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+             
+			<td><a href="charinfo.php?q=7937">Titan_EviL</a></td>
+			<td><a href="guildinfo.php?q=923">Paranormal</td>
+			<td> 786</td>
+			<td> 29</td>
+			
+		
+   </tr>

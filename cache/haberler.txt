@@ -1,0 +1,15 @@
+	
+									
+		  <div id="haber-10" class="haberBoxBg">
+<div class="haberBox">
+<h3>Test</h3>
+<p><p>test <span class="marker"><strong>haber</strong></span></p>
+</p>
+<div class="clear"></div>
+<div class="haber-info">
+<div class="publish-date">11.04.2024 22:25:24</div>
+</div>
+</div>
+</div>
+                                                               
+	 					

@@ -1,0 +1,31 @@
+     
+ 
+ 
+<div style="width:85%;" class="center">
+<div id="jangan_fortress" class="fortress">
+                <h3>Jangan Fortress</h3>
+                <div class="guildname">Sahibi Yok</div>
+               <div class="guildtax">Tax: 0%</div>
+            </div> 
+		</div>		
+		
+	
+    
+ 
+		
+		
+	
+    
+	
+ 
+ 
+<div style="width:85%;" class="center">
+<div id="bandit_fortress" class="fortress">
+                <h3>Bandit Fortress</h3>
+                <div class="guildname">Sahibi Yok</div>
+				<div class="guildtax">Tax: 0%</div>	
+            </div>
+	</div>		
+	
+	
+                     

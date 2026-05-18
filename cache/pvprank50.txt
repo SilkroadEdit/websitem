@@ -1,0 +1,10 @@
+    <div id="ranking-result" class="ranking-tables"><table>
+       <tbody><tr class="first">
+        
+            <td width="10">Sıra</th>
+            <td width="240">İsim</th>
+            <td width="170">Guild</th>
+            <td width="110">Öldürülen</th>
+            <td width="104">Ölme</th>
+            <td width="104">Puan</th>
+        </tr>

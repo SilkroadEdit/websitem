@@ -1,0 +1,16 @@
+    <div id="ranking-result" class="ranking-tables"><table>
+       <tbody><tr class="first">
+            <td width="50">Sıra</th>
+            <td width="250">Union Master Guild</th>
+
+            <td width="250">Toplam Item Puanı</th>
+        </tr>
+<tr>
+                	 <td><i class="fa fa-trophy fa-fw trophyFirst"></i></td>
+              
+			<td><a href="unioninfo.php?q=921&puan=21103">OutOfControl</td>
+
+			<td> 21103</td>
+		
+				
+   </tr>

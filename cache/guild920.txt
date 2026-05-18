@@ -1,0 +1,136 @@
+  <div class="guildinfo">
+<div class="lonca-profil-ad">
+<div class="karakter-detay"><span class="karakter-adi">Qivin-X Official Team</span></div>
+<div class="karakter-seviye">
+<div class="seviye"><span>5</span></div>
+<span class="seviye-span">Level :</span></div>
+<div class="clear"></div>
+</div>
+<div class="master-info-container text-center">
+<div class="master-info">
+<div class="master-image">
+<img src="/media/images/char/14880.gif" alt />
+</div>
+<div class="master-info-list">
+<ul class="list-unstyled">
+<li>
+<span class="text-bold">Master Adı:</span>
+<span><a class="text-danger" href="charinfo.php?q=7864">[Dev] Demetry</a></span>
+</li>
+<li>
+<span class="text-bold">Guild:</span>
+<span class="text-danger">Qivin-X Official Team</span>
+</li>
+<li>
+<span class="text-bold">Level:</span>
+<span class="text-danger">5</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="guild-menu">
+<ul>
+<li><a href="#guild-info" class="active">Guild Bilgileri</a></li>
+<li><a href="#guild-members">Guild Üyeleri</a></li>
+</ul>
+</div>
+<br>
+<div id="guild-info">
+<table class="ranking-tables">
+<tr>
+<td width="30%">Guild Adı</td>
+<td width="70%">Qivin-X Official Team</td>
+</tr>
+<tr>
+<td width="30%">Guild Leveli</td>
+<td width="70%">5</td>
+</tr>
+<tr>
+<td width="30%">Üye Sayısı</td>
+<td width="70%">4</td>
+</tr>
+<tr>
+<td width="30%">Üye Level Ortalaması</td>
+<td width="70%">110</td>
+</tr>
+<tr>
+<td width="30%">Guild GP</td>
+<td width="70%">13615890</td>
+</tr>
+<tr>
+<td width="30%">Toplam Item Puanı</td>
+<td width="70%">1313</td>
+</tr>
+<tr>
+<td width="30%">Kuruluş Tarihi</td>
+<td width="70%">2014-05-24 01:12:00</td>
+</tr>
+</table>
+</div>
+<div id="guild-members" class="hidden">
+<table class="ranking-tables">
+<tr>
+<td>Sıra</td>
+<td>İsmi</td>
+<td>Yetkisi</td>
+<td>Leveli</td>
+<td>Item Puanı</td>
+<td>Katılma Tarihi</td>
+</tr>
+<tr>
+<td>1</td>
+<td>
+<a href="charinfo.php?q=7864">[Dev] Demetry</a>
+</td>
+<td><font color="gold">Master</font></td>
+<td>110</td>
+<td>103</td>
+<td>2014-05-24 01:12:00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<a href="charinfo.php?q=7865">[GM] CrunkY</a>
+</td>
+<td>Üye</td>
+<td>110</td>
+<td>81</td>
+<td>2014-05-24 01:13:00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<a href="charinfo.php?q=8027">[GM] Skull</a>
+</td>
+<td>Üye</td>
+<td>110</td>
+<td>921</td>
+<td>2014-05-26 20:13:00</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<a href="charinfo.php?q=7863">[GM] OverLord</a>
+</td>
+<td>Üye</td>
+<td>110</td>
+<td>208</td>
+<td>2014-05-24 01:14:00</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+                                    $('.guild-menu').find('ul > li > a').click(function (e) {
+                                        e.preventDefault();
+                                        var link = $(this);
+                                        $('.guild-menu').find('ul > li > a').removeClass('active');
+                                        link.addClass('active');
+                                        $('#guild-info, #guild-members').addClass('hidden');
+                                        $(link.attr('href')).removeClass('hidden');
+                                    })
+                                </script>
+</div>
+
+
+                     
